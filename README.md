@@ -1,4 +1,4 @@
-# **Android Accelerometer Data Logger and Graph Plotter**
+# **Android Accelerometer Data Logger and Predictor**
 
 This Android application captures accelerometer data (X, Y, Z axes) in real-time, stores the data in a local SQLite database, and visualizes it using line charts using the MPAndroidChart library.
 
