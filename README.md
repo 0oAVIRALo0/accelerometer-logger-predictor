@@ -42,10 +42,6 @@ This Android application captures accelerometer data (X, Y, Z axes) in real-time
 - **Room Persistence Library**: Provides an abstraction layer over SQLite for database operations.
 - **Kotlin Coroutines**: Used for asynchronous and non-blocking database operations and UI updates.
 
-## **Screenshots**
-
-*Insert screenshots of the application demonstrating real-time sensor data and plotted graphs.*
-
 ## **Troubleshooting**
 
 - **Sensor Unavailable**: If the app displays "Accelerometer not available", ensure that the device supports the accelerometer sensor.
